@@ -173,15 +173,15 @@ footer a:hover{
         margin-bottom: 1%;
     }
     #full_catalogue a{
-        font-size: 25pt;
+        font-size: 45pt;
     }
     #info p{
-        font-size: 20pt;
+        font-size: 30pt;
     }
     #info a{
-        font-size: 25pt;
+        font-size: 45pt;
     }
     #info ul li a{
-        font-size: 20pt;
+        font-size: 30pt;
     }
 }
